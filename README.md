@@ -11,3 +11,20 @@ Woocommerce means Website + Online store
 	<li>Some short of customization will be benifit.</li>
    
 </ul>
+<ul>
+	<li>a) Theme Basic Files</li>
+	<li>b) Theme functions</li>
+	<li>c) Page Templates / Template hierarchy</li>
+	<li>d) Install a very basic Simple Bootstrap theme</li>
+	<li>e) Page Settings of template</li>
+</ul>	
+
+
+ 
+
+
+
+
+
+
+
