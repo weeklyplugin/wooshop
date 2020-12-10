@@ -19,5 +19,6 @@
 				<a href="">Contact</a>
 				
 			</nav>
+			<?php  wp_nav_menu( array('theme_location' => 'demo',)); ?>
 		</section>
 	</header>
